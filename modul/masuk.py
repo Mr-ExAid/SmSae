@@ -2,7 +2,7 @@ import os, sys
 
 print ("Masuk yang bener yah beb:*")
 username = 'Mr.ExAid'      
-password = 'salam 5 jari'
+password = 'hasantampan'
 
 def restart():
 	ngulang = sys.executable
