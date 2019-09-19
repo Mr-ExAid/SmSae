@@ -7,7 +7,7 @@ CYAN=$(tput setaf 6)
 RED=$(tput setaf 1) #MERAH
 NORMAL=$(tput sgr0)
 
-cd module
+cd modul
 python2 masuk.py
 
 load(){
